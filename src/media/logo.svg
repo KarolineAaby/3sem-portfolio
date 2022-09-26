@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Lag_2" data-name="Lag 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 424.7 215.95">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #0f141e;
+      }
+    </style>
+  </defs>
+  <g id="Lag_1-2" data-name="Lag 1">
+    <g>
+      <polygon class="cls-1" points="424.7 215.95 361.79 215.95 271.22 60.62 304.28 1.39 304.69 .98 424.7 215.95"/>
+      <polygon class="cls-1" points="209.73 215.56 146.81 215.56 64.26 119.25 52.43 131.08 52.43 215.56 0 215.56 0 .58 52.43 .58 52.43 105.68 52.54 105.58 52.43 105.45 89.14 68.75 155.18 149.15 194.84 197.43 209.73 215.56"/>
+      <circle class="cls-1" cx="157.3" cy="26.22" r="26.22"/>
+    </g>
+  </g>
+</svg>
